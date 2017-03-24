@@ -6,7 +6,7 @@
         return b(a)
       }) : b(a, !0)
   }
-}(window, function (a, b) {
+}(this || window, function (a, b) {
   function c(b, c, d) {
     a.WeixinJSBridge ? WeixinJSBridge.invoke(b, e(c), function (a) {
         h(b, a, d)

@@ -21,5 +21,15 @@
 })
 ```
 
+## usage:
++ install from github:
+```bash
+npm install afeiship/wechat-jssdk --save
+```
++ import jssdk
+```javascript 1.8
+import wx from 'wechat-jssdk';
+```
+
 ## todos:
 - [ ] todo list..
